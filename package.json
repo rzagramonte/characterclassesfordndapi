@@ -177,5 +177,8 @@
   "bugs": {
     "url": "https://github.com/rzagramonte/characterclassesfordndapi/issues"
   },
-  "homepage": "https://github.com/rzagramonte/characterclassesfordndapi#readme"
+  "homepage": "https://github.com/rzagramonte/characterclassesfordndapi#readme",
+  "devDependencies": {
+    "netlify-cli": "^16.5.1"
+  }
 }
